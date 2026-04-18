@@ -1,6 +1,6 @@
 # Data Science with Python
 
-A hands-on data science project repository built by following the Data Science from Free Code Camp
+A hands-on data science project repository built by following the Data Science from FreeCodeCamp
 
 ## 📚 What's Covered
 
